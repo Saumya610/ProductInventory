@@ -1,0 +1,6 @@
+@WebApp_Assessment_HostAddress = http://localhost:5155
+
+GET {{WebApp_Assessment_HostAddress}}/api/products
+Accept: application/json
+
+###

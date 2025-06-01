@@ -1,0 +1,370 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CRUD_MVC\\WebApp-Assessment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F84F46D1-0A21-4CC9-B47F-E9B048926BB6}|WebApp-Assessment\\Source\\WebApp-Assessment.csproj|d:\\crud_mvc\\webapp-assessment\\webapp-assessment\\source\\productmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84F46D1-0A21-4CC9-B47F-E9B048926BB6}|WebApp-Assessment\\Source\\WebApp-Assessment.csproj|solutionrelative:webapp-assessment\\source\\productmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CRUD_MVC\\WebApp-Assessment\\WebApp-Assessment\\WebApp-Assessment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApp-Assessment\\WebApp-Assessment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\AppData\\Roaming\\Microsoft\\UserSecrets\\90018e52-b5ca-4ef9-8996-62d3051043ee\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84F46D1-0A21-4CC9-B47F-E9B048926BB6}|WebApp-Assessment\\Source\\WebApp-Assessment.csproj|d:\\crud_mvc\\webapp-assessment\\webapp-assessment\\source\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F84F46D1-0A21-4CC9-B47F-E9B048926BB6}|WebApp-Assessment\\Source\\WebApp-Assessment.csproj|solutionrelative:webapp-assessment\\source\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84F46D1-0A21-4CC9-B47F-E9B048926BB6}|WebApp-Assessment\\Source\\WebApp-Assessment.csproj|d:\\crud_mvc\\webapp-assessment\\webapp-assessment\\source\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84F46D1-0A21-4CC9-B47F-E9B048926BB6}|WebApp-Assessment\\Source\\WebApp-Assessment.csproj|solutionrelative:webapp-assessment\\source\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84F46D1-0A21-4CC9-B47F-E9B048926BB6}|WebApp-Assessment\\Source\\WebApp-Assessment.csproj|d:\\crud_mvc\\webapp-assessment\\webapp-assessment\\source\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84F46D1-0A21-4CC9-B47F-E9B048926BB6}|WebApp-Assessment\\Source\\WebApp-Assessment.csproj|solutionrelative:webapp-assessment\\source\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84F46D1-0A21-4CC9-B47F-E9B048926BB6}|WebApp-Assessment\\Source\\WebApp-Assessment.csproj|d:\\crud_mvc\\webapp-assessment\\webapp-assessment\\source\\migrations\\20250528125840_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84F46D1-0A21-4CC9-B47F-E9B048926BB6}|WebApp-Assessment\\Source\\WebApp-Assessment.csproj|solutionrelative:webapp-assessment\\source\\migrations\\20250528125840_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84F46D1-0A21-4CC9-B47F-E9B048926BB6}|WebApp-Assessment\\Source\\WebApp-Assessment.csproj|d:\\crud_mvc\\webapp-assessment\\webapp-assessment\\source\\dtos\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84F46D1-0A21-4CC9-B47F-E9B048926BB6}|WebApp-Assessment\\Source\\WebApp-Assessment.csproj|solutionrelative:webapp-assessment\\source\\dtos\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84F46D1-0A21-4CC9-B47F-E9B048926BB6}|WebApp-Assessment\\Source\\WebApp-Assessment.csproj|d:\\crud_mvc\\webapp-assessment\\webapp-assessment\\source\\data\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84F46D1-0A21-4CC9-B47F-E9B048926BB6}|WebApp-Assessment\\Source\\WebApp-Assessment.csproj|solutionrelative:webapp-assessment\\source\\data\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84F46D1-0A21-4CC9-B47F-E9B048926BB6}|WebApp-Assessment\\Source\\WebApp-Assessment.csproj|d:\\crud_mvc\\webapp-assessment\\webapp-assessment\\source\\dtos\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84F46D1-0A21-4CC9-B47F-E9B048926BB6}|WebApp-Assessment\\Source\\WebApp-Assessment.csproj|solutionrelative:webapp-assessment\\source\\dtos\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84F46D1-0A21-4CC9-B47F-E9B048926BB6}|WebApp-Assessment\\Source\\WebApp-Assessment.csproj|d:\\crud_mvc\\webapp-assessment\\webapp-assessment\\source\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84F46D1-0A21-4CC9-B47F-E9B048926BB6}|WebApp-Assessment\\Source\\WebApp-Assessment.csproj|solutionrelative:webapp-assessment\\source\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84F46D1-0A21-4CC9-B47F-E9B048926BB6}|WebApp-Assessment\\Source\\WebApp-Assessment.csproj|d:\\crud_mvc\\webapp-assessment\\webapp-assessment\\source\\data\\productdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84F46D1-0A21-4CC9-B47F-E9B048926BB6}|WebApp-Assessment\\Source\\WebApp-Assessment.csproj|solutionrelative:webapp-assessment\\source\\data\\productdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84F46D1-0A21-4CC9-B47F-E9B048926BB6}|WebApp-Assessment\\Source\\WebApp-Assessment.csproj|d:\\crud_mvc\\webapp-assessment\\webapp-assessment\\source\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84F46D1-0A21-4CC9-B47F-E9B048926BB6}|WebApp-Assessment\\Source\\WebApp-Assessment.csproj|solutionrelative:webapp-assessment\\source\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84F46D1-0A21-4CC9-B47F-E9B048926BB6}|WebApp-Assessment\\Source\\WebApp-Assessment.csproj|d:\\crud_mvc\\webapp-assessment\\webapp-assessment\\source\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84F46D1-0A21-4CC9-B47F-E9B048926BB6}|WebApp-Assessment\\Source\\WebApp-Assessment.csproj|solutionrelative:webapp-assessment\\source\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84F46D1-0A21-4CC9-B47F-E9B048926BB6}|WebApp-Assessment\\Source\\WebApp-Assessment.csproj|d:\\crud_mvc\\webapp-assessment\\webapp-assessment\\source\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84F46D1-0A21-4CC9-B47F-E9B048926BB6}|WebApp-Assessment\\Source\\WebApp-Assessment.csproj|solutionrelative:webapp-assessment\\source\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84F46D1-0A21-4CC9-B47F-E9B048926BB6}|WebApp-Assessment\\Source\\WebApp-Assessment.csproj|d:\\crud_mvc\\webapp-assessment\\webapp-assessment\\source\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84F46D1-0A21-4CC9-B47F-E9B048926BB6}|WebApp-Assessment\\Source\\WebApp-Assessment.csproj|solutionrelative:webapp-assessment\\source\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84F46D1-0A21-4CC9-B47F-E9B048926BB6}|WebApp-Assessment\\Source\\WebApp-Assessment.csproj|d:\\crud_mvc\\webapp-assessment\\webapp-assessment\\source\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84F46D1-0A21-4CC9-B47F-E9B048926BB6}|WebApp-Assessment\\Source\\WebApp-Assessment.csproj|solutionrelative:webapp-assessment\\source\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84F46D1-0A21-4CC9-B47F-E9B048926BB6}|WebApp-Assessment\\Source\\WebApp-Assessment.csproj|d:\\crud_mvc\\webapp-assessment\\webapp-assessment\\source\\migrations\\20250531193130_removeproductidgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84F46D1-0A21-4CC9-B47F-E9B048926BB6}|WebApp-Assessment\\Source\\WebApp-Assessment.csproj|solutionrelative:webapp-assessment\\source\\migrations\\20250531193130_removeproductidgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84F46D1-0A21-4CC9-B47F-E9B048926BB6}|WebApp-Assessment\\Source\\WebApp-Assessment.csproj|d:\\crud_mvc\\webapp-assessment\\webapp-assessment\\source\\migrations\\20250531193130_removeproductidgenerator.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84F46D1-0A21-4CC9-B47F-E9B048926BB6}|WebApp-Assessment\\Source\\WebApp-Assessment.csproj|solutionrelative:webapp-assessment\\source\\migrations\\20250531193130_removeproductidgenerator.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84F46D1-0A21-4CC9-B47F-E9B048926BB6}|WebApp-Assessment\\Source\\WebApp-Assessment.csproj|d:\\crud_mvc\\webapp-assessment\\webapp-assessment\\source\\migrations\\20250528125840_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84F46D1-0A21-4CC9-B47F-E9B048926BB6}|WebApp-Assessment\\Source\\WebApp-Assessment.csproj|solutionrelative:webapp-assessment\\source\\migrations\\20250528125840_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84F46D1-0A21-4CC9-B47F-E9B048926BB6}|WebApp-Assessment\\Source\\WebApp-Assessment.csproj|d:\\crud_mvc\\webapp-assessment\\webapp-assessment\\source\\migrations\\20250531105750_addproductsequence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84F46D1-0A21-4CC9-B47F-E9B048926BB6}|WebApp-Assessment\\Source\\WebApp-Assessment.csproj|solutionrelative:webapp-assessment\\source\\migrations\\20250531105750_addproductsequence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84F46D1-0A21-4CC9-B47F-E9B048926BB6}|WebApp-Assessment\\Source\\WebApp-Assessment.csproj|d:\\crud_mvc\\webapp-assessment\\webapp-assessment\\source\\migrations\\productdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84F46D1-0A21-4CC9-B47F-E9B048926BB6}|WebApp-Assessment\\Source\\WebApp-Assessment.csproj|solutionrelative:webapp-assessment\\source\\migrations\\productdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebApp-Assessment.csproj",
+              "DocumentMoniker": "D:\\CRUD_MVC\\WebApp-Assessment\\WebApp-Assessment\\WebApp-Assessment.csproj",
+              "RelativeDocumentMoniker": "WebApp-Assessment\\WebApp-Assessment.csproj",
+              "ToolTip": "D:\\CRUD_MVC\\WebApp-Assessment\\WebApp-Assessment\\WebApp-Assessment.csproj",
+              "RelativeToolTip": "WebApp-Assessment\\WebApp-Assessment.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-31T21:48:30.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\CRUD_MVC\\WebApp-Assessment\\WebApp-Assessment\\Source\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApp-Assessment\\Source\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\CRUD_MVC\\WebApp-Assessment\\WebApp-Assessment\\Source\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApp-Assessment\\Source\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-31T17:23:19.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CRUD_MVC\\WebApp-Assessment\\WebApp-Assessment\\Source\\Program.cs",
+              "RelativeDocumentMoniker": "WebApp-Assessment\\Source\\Program.cs",
+              "ToolTip": "D:\\CRUD_MVC\\WebApp-Assessment\\WebApp-Assessment\\Source\\Program.cs",
+              "RelativeToolTip": "WebApp-Assessment\\Source\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T13:12:57.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\CRUD_MVC\\WebApp-Assessment\\WebApp-Assessment\\Source\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "WebApp-Assessment\\Source\\Models\\Product.cs",
+              "ToolTip": "D:\\CRUD_MVC\\WebApp-Assessment\\WebApp-Assessment\\Source\\Models\\Product.cs",
+              "RelativeToolTip": "WebApp-Assessment\\Source\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T12:21:05.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250528125840_InitialCreate.cs",
+              "DocumentMoniker": "D:\\CRUD_MVC\\WebApp-Assessment\\WebApp-Assessment\\Source\\Migrations\\20250528125840_InitialCreate.cs",
+              "RelativeDocumentMoniker": "WebApp-Assessment\\Source\\Migrations\\20250528125840_InitialCreate.cs",
+              "ToolTip": "D:\\CRUD_MVC\\WebApp-Assessment\\WebApp-Assessment\\Source\\Migrations\\20250528125840_InitialCreate.cs",
+              "RelativeToolTip": "WebApp-Assessment\\Source\\Migrations\\20250528125840_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T10:58:01.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductMappingProfile.cs",
+              "DocumentMoniker": "D:\\CRUD_MVC\\WebApp-Assessment\\WebApp-Assessment\\Source\\ProductMappingProfile.cs",
+              "RelativeDocumentMoniker": "WebApp-Assessment\\Source\\ProductMappingProfile.cs",
+              "ToolTip": "D:\\CRUD_MVC\\WebApp-Assessment\\WebApp-Assessment\\Source\\ProductMappingProfile.cs",
+              "RelativeToolTip": "WebApp-Assessment\\Source\\ProductMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T18:48:02.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductCreateDto.cs",
+              "DocumentMoniker": "D:\\CRUD_MVC\\WebApp-Assessment\\WebApp-Assessment\\Source\\DTOs\\ProductCreateDto.cs",
+              "RelativeDocumentMoniker": "WebApp-Assessment\\Source\\DTOs\\ProductCreateDto.cs",
+              "ToolTip": "D:\\CRUD_MVC\\WebApp-Assessment\\WebApp-Assessment\\Source\\DTOs\\ProductCreateDto.cs",
+              "RelativeToolTip": "WebApp-Assessment\\Source\\DTOs\\ProductCreateDto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T12:24:25.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "D:\\CRUD_MVC\\WebApp-Assessment\\WebApp-Assessment\\Source\\Data\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "WebApp-Assessment\\Source\\Data\\ProductDbContext.cs",
+              "ToolTip": "D:\\CRUD_MVC\\WebApp-Assessment\\WebApp-Assessment\\Source\\Data\\ProductDbContext.cs",
+              "RelativeToolTip": "WebApp-Assessment\\Source\\Data\\ProductDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T12:21:25.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductUpdateDto.cs",
+              "DocumentMoniker": "D:\\CRUD_MVC\\WebApp-Assessment\\WebApp-Assessment\\Source\\DTOs\\ProductUpdateDto.cs",
+              "RelativeDocumentMoniker": "WebApp-Assessment\\Source\\DTOs\\ProductUpdateDto.cs",
+              "ToolTip": "D:\\CRUD_MVC\\WebApp-Assessment\\WebApp-Assessment\\Source\\DTOs\\ProductUpdateDto.cs",
+              "RelativeToolTip": "WebApp-Assessment\\Source\\DTOs\\ProductUpdateDto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T12:24:37.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "D:\\CRUD_MVC\\WebApp-Assessment\\WebApp-Assessment\\Source\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "WebApp-Assessment\\Source\\DTOs\\ProductDto.cs",
+              "ToolTip": "D:\\CRUD_MVC\\WebApp-Assessment\\WebApp-Assessment\\Source\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "WebApp-Assessment\\Source\\DTOs\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T18:33:14.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductDbContextFactory.cs",
+              "DocumentMoniker": "D:\\CRUD_MVC\\WebApp-Assessment\\WebApp-Assessment\\Source\\Data\\ProductDbContextFactory.cs",
+              "RelativeDocumentMoniker": "WebApp-Assessment\\Source\\Data\\ProductDbContextFactory.cs",
+              "ToolTip": "D:\\CRUD_MVC\\WebApp-Assessment\\WebApp-Assessment\\Source\\Data\\ProductDbContextFactory.cs",
+              "RelativeToolTip": "WebApp-Assessment\\Source\\Data\\ProductDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T12:57:29.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\CRUD_MVC\\WebApp-Assessment\\WebApp-Assessment\\Source\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "WebApp-Assessment\\Source\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\CRUD_MVC\\WebApp-Assessment\\WebApp-Assessment\\Source\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "WebApp-Assessment\\Source\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T12:25:03.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\CRUD_MVC\\WebApp-Assessment\\WebApp-Assessment\\Source\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "WebApp-Assessment\\Source\\Services\\ProductService.cs",
+              "ToolTip": "D:\\CRUD_MVC\\WebApp-Assessment\\WebApp-Assessment\\Source\\Services\\ProductService.cs",
+              "RelativeToolTip": "WebApp-Assessment\\Source\\Services\\ProductService.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAADwvycAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T12:24:04.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\CRUD_MVC\\WebApp-Assessment\\WebApp-Assessment\\Source\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "WebApp-Assessment\\Source\\Services\\IProductService.cs",
+              "ToolTip": "D:\\CRUD_MVC\\WebApp-Assessment\\WebApp-Assessment\\Source\\Services\\IProductService.cs",
+              "RelativeToolTip": "WebApp-Assessment\\Source\\Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T12:23:45.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\CRUD_MVC\\WebApp-Assessment\\WebApp-Assessment\\Source\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "WebApp-Assessment\\Source\\Repositories\\IProductRepository.cs",
+              "ToolTip": "D:\\CRUD_MVC\\WebApp-Assessment\\WebApp-Assessment\\Source\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "WebApp-Assessment\\Source\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T12:23:15.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\CRUD_MVC\\WebApp-Assessment\\WebApp-Assessment\\Source\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "WebApp-Assessment\\Source\\Repositories\\ProductRepository.cs",
+              "ToolTip": "D:\\CRUD_MVC\\WebApp-Assessment\\WebApp-Assessment\\Source\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "WebApp-Assessment\\Source\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAArwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T12:23:30.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250531193130_RemoveProductIdGenerator.cs",
+              "DocumentMoniker": "D:\\CRUD_MVC\\WebApp-Assessment\\WebApp-Assessment\\Source\\Migrations\\20250531193130_RemoveProductIdGenerator.cs",
+              "RelativeDocumentMoniker": "WebApp-Assessment\\Source\\Migrations\\20250531193130_RemoveProductIdGenerator.cs",
+              "ToolTip": "D:\\CRUD_MVC\\WebApp-Assessment\\WebApp-Assessment\\Source\\Migrations\\20250531193130_RemoveProductIdGenerator.cs",
+              "RelativeToolTip": "WebApp-Assessment\\Source\\Migrations\\20250531193130_RemoveProductIdGenerator.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T19:31:56.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250531193130_RemoveProductIdGenerator.Designer.cs",
+              "DocumentMoniker": "D:\\CRUD_MVC\\WebApp-Assessment\\WebApp-Assessment\\Source\\Migrations\\20250531193130_RemoveProductIdGenerator.Designer.cs",
+              "RelativeDocumentMoniker": "WebApp-Assessment\\Source\\Migrations\\20250531193130_RemoveProductIdGenerator.Designer.cs",
+              "ToolTip": "D:\\CRUD_MVC\\WebApp-Assessment\\WebApp-Assessment\\Source\\Migrations\\20250531193130_RemoveProductIdGenerator.Designer.cs",
+              "RelativeToolTip": "WebApp-Assessment\\Source\\Migrations\\20250531193130_RemoveProductIdGenerator.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T19:32:32.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250528125840_InitialCreate.Designer.cs",
+              "DocumentMoniker": "D:\\CRUD_MVC\\WebApp-Assessment\\WebApp-Assessment\\Source\\Migrations\\20250528125840_InitialCreate.Designer.cs",
+              "RelativeDocumentMoniker": "WebApp-Assessment\\Source\\Migrations\\20250528125840_InitialCreate.Designer.cs",
+              "ToolTip": "D:\\CRUD_MVC\\WebApp-Assessment\\WebApp-Assessment\\Source\\Migrations\\20250528125840_InitialCreate.Designer.cs",
+              "RelativeToolTip": "WebApp-Assessment\\Source\\Migrations\\20250528125840_InitialCreate.Designer.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAawB0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T10:50:57.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250531105750_AddProductSequence.cs",
+              "DocumentMoniker": "D:\\CRUD_MVC\\WebApp-Assessment\\WebApp-Assessment\\Source\\Migrations\\20250531105750_AddProductSequence.cs",
+              "RelativeDocumentMoniker": "WebApp-Assessment\\Source\\Migrations\\20250531105750_AddProductSequence.cs",
+              "ToolTip": "D:\\CRUD_MVC\\WebApp-Assessment\\WebApp-Assessment\\Source\\Migrations\\20250531105750_AddProductSequence.cs",
+              "RelativeToolTip": "WebApp-Assessment\\Source\\Migrations\\20250531105750_AddProductSequence.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T10:58:04.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\CRUD_MVC\\WebApp-Assessment\\WebApp-Assessment\\Source\\Migrations\\ProductDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "WebApp-Assessment\\Source\\Migrations\\ProductDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\CRUD_MVC\\WebApp-Assessment\\WebApp-Assessment\\Source\\Migrations\\ProductDbContextModelSnapshot.cs",
+              "RelativeToolTip": "WebApp-Assessment\\Source\\Migrations\\ProductDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T10:58:07.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\AppData\\Roaming\\Microsoft\\UserSecrets\\90018e52-b5ca-4ef9-8996-62d3051043ee\\secrets.json",
+              "ToolTip": "C:\\Users\\Admin\\AppData\\Roaming\\Microsoft\\UserSecrets\\90018e52-b5ca-4ef9-8996-62d3051043ee\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-30T07:43:21.471Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
