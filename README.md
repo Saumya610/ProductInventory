@@ -1,16 +1,16 @@
 # ProductInventory
 
 ##  Prerequisites
-.NET 8.0
-Visual Studio 2022 or later
-SQL Server
+- .NET 8.0
+- Visual Studio 2022 or later
+- SQL Server
 
 ### How to Run Locally
 
 1. Clone the repository
 git clone https://github.com/Saumya610/ProductInventory.git
 
-2. Open ProductInventory.sln in Visual Studio.
+2. Open WebApp_Assessment.sln in Visual Studio.
 
 3. Build the solution (Build Solution or Ctrl+Shift+B).
 
@@ -38,3 +38,13 @@ Mappings/ - AutoMapper profiles
 - Create, Read, Update, Delete (CRUD) operations for products
 - Stock management (increment/decrement stock)
 - API documentation and testing using Swagger UI
+
+## API Endpoints
+
+- `GET /api/products` — Get all products
+- `GET /api/products/{id}` — Get product by ID
+- `POST /api/products` — Create a product
+- `PUT /api/products/{id}` — Update a product
+- `DELETE /api/products/{id}` — Delete a product
+- `PUT /api/products/decrement-stock/{id}/{quantity}` — Decrement stock
+- `PUT /api/products/add-to-stock/{id}/{quantity}` — Add to stock
