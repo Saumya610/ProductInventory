@@ -1,7 +1,0 @@
-D:\CRUD_MVC\WebApp_Assessment\WebApp_Assessment\WebAppAssessment.Tests\bin\Debug\net9.0\.msCoverageSourceRootsMapping_WebAppAssessment.Tests
-D:\CRUD_MVC\WebApp_Assessment\WebApp_Assessment\WebAppAssessment.Tests\bin\Debug\net9.0\CoverletSourceRootsMapping_WebAppAssessment.Tests
-D:\CRUD_MVC\WebApp_Assessment\WebApp_Assessment\WebAppAssessment.Tests\obj\Debug\net9.0\WebAppAssessment.Tests.csproj.AssemblyReference.cache
-D:\CRUD_MVC\WebApp_Assessment\WebApp_Assessment\WebAppAssessment.Tests\obj\Debug\net9.0\WebAppAssessment.Tests.GeneratedMSBuildEditorConfig.editorconfig
-D:\CRUD_MVC\WebApp_Assessment\WebApp_Assessment\WebAppAssessment.Tests\obj\Debug\net9.0\WebAppAssessment.Tests.AssemblyInfoInputs.cache
-D:\CRUD_MVC\WebApp_Assessment\WebApp_Assessment\WebAppAssessment.Tests\obj\Debug\net9.0\WebAppAssessment.Tests.AssemblyInfo.cs
-D:\CRUD_MVC\WebApp_Assessment\WebApp_Assessment\WebAppAssessment.Tests\obj\Debug\net9.0\WebAppAssessment.Tests.csproj.CoreCompileInputs.cache
